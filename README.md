@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **abduehabtahermm@gmail.com**
 
-- ⚡ Fun fact **I have 2 cats**
+- ⚡ Fun fact **I have 2 very cute cats**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
