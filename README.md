@@ -2,9 +2,9 @@
 <h3 align="center">A Software Engineer studying Computer Science at UOFC</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGRnbmpveHdjMmZhcmZmOWlpNGkya2Z1aWNqbGd2OXZidjFrZzN3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif">
 
-- 🌱 I’m currently learning **Assembly, React, Aws**
+- 🌱 I’m currently learning **ML, Azure, C**
 
-- 💬 Ask me about **Apis, Python**
+- 💬 Ask me about **Pandas, Data**
 
 - 📫 How to reach me **abduehabtahermm@gmail.com**
 
