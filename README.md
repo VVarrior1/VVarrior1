@@ -1,19 +1,27 @@
-<h1 align="center">Hi 👋, I'm Abdelrahman Mohamed</h1>
-<h3 align="center">A Software Engineer studying Computer Science at UOFC</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGRnbmpveHdjMmZhcmZmOWlpNGkya2Z1aWNqbGd2OXZidjFrZzN3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif">
+# Abdelrahman Mohamed
 
-- 🌱 I’m currently learning **AI, Cloud, HCI**
+Full-stack and AI engineer. Computer Science at the University of Calgary, graduating December 2026 and available full-time from January 2027.
 
-- 💬 Ask me about **Pandas, Data**
+**Currently:** sole engineer on the booking and payments platform for [CYD Soccer Academy](https://cydsoccer.com) (~300 active families, 4 Calgary venues), and building Python ETL pipelines on Azure and SQL Server for the City of Calgary's greenhouse-gas inventory as my capstone.
 
-- 📫 How to reach me **abduehabtahermm@gmail.com**
+## Featured work
 
-- ⚡ Fun fact **I have 2 very cute cats**
+**[CYD Soccer Academy platform](https://cydsoccer.com)**: production registration and payments for a youth soccer academy. Stripe one-time, instalment and subscription billing, SMS and email automation, roster sync and admin tools. Next.js 15, TypeScript, Vercel, Google Sheets API, Stripe, Twilio, Resend.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdelrahman-mohamed-080488197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdelrahman-mohamed-080488197/" height="30" width="40" /></a>
-</p>
+**[Systemlab](https://github.com/VVarrior1/systemlab)**: a system design trainer. 70 lessons on a deterministic discrete-event simulator, blank-canvas design briefs, an estimation gym, and a voice mock interview graded by Gemini. 948 tests. [Live demo](https://system-design-playground-pi.vercel.app)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+**[ApplyOps](https://github.com/VVarrior1/applyops)**: an LLM pipeline with an evaluation gate. Every generated claim must cite a confirmed fact, a golden-set regression check blocks prompt or model changes that make the output worse, and a benchmark picks the cheapest model that isn't measurably worse. [Live demo](https://applyops-two.vercel.app)
+
+**[Vectorized Fashion AI](https://github.com/VVarrior1/Vectorized-fashion-ai)**: multimodal product search with CLIP and text embeddings in FAISS, plus RAG-generated product descriptions. Python, Streamlit.
+
+## Stack
+
+- **Languages:** TypeScript, Python, SQL
+- **Web:** Next.js, React, Node.js, Tailwind CSS
+- **Data:** PostgreSQL, Supabase, SQL Server, Google Sheets API
+- **AI/ML:** LLM pipelines and evaluation, RAG and vector search, Gemini and Vertex AI, YOLOv8/v11
+- **Cloud and tools:** Vercel, GCP, Azure, Docker, Stripe, Twilio
+
+## Contact
+
+abdel.mohamed.engineer@gmail.com · [LinkedIn](https://www.linkedin.com/in/abdelrahman-mohamed-080488197/) · [Portfolio](https://abdelrahmanmohamed1.netlify.app)
