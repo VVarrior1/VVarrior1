@@ -2,11 +2,11 @@
 
 Full-stack and AI engineer. Computer Science at the University of Calgary, graduating December 2026 and available full-time from January 2027.
 
-**Currently:** sole engineer on the booking and payments platform for [CYD Soccer Academy](https://cydsoccer.com) (~300 active families, 4 Calgary venues), and building Python ETL pipelines on Azure and SQL Server for the City of Calgary's greenhouse-gas inventory as my capstone.
+**Currently:** sole engineer on the booking and payments platform for [CYD Soccer Academy](https://cydsoccer.com) (~300 active families, 5 Calgary venues), and building Python ETL pipelines on Azure and SQL Server for the City of Calgary's greenhouse-gas inventory as my capstone.
 
 ## Featured work
 
-**[CYD Soccer Academy platform](https://cydsoccer.com)**: production registration and payments for a youth soccer academy. Stripe one-time, instalment and subscription billing, SMS and email automation, roster sync and admin tools. Next.js 15, TypeScript, Vercel, Google Sheets API, Stripe, Twilio, Resend.
+**[CYD Soccer Academy platform](https://github.com/VVarrior1/cyd-platform-case-study)**: production registration and payments for a youth soccer academy. Stripe one-time, instalment and subscription billing, SMS and email automation, roster sync and admin tools. Next.js 15, TypeScript, Vercel, Google Sheets API, Stripe, Twilio, Resend. [Case study](https://github.com/VVarrior1/cyd-platform-case-study) · [Live site](https://cydsoccer.com)
 
 **[Systemlab](https://github.com/VVarrior1/systemlab)**: a system design trainer. 70 lessons on a deterministic discrete-event simulator, blank-canvas design briefs, an estimation gym, and a voice mock interview graded by Gemini. 948 tests. [Live demo](https://system-design-playground-pi.vercel.app)
 
