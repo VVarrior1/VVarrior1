@@ -10,8 +10,6 @@ Full-stack and AI engineer. Computer Science at the University of Calgary, gradu
 
 **[Systemlab](https://github.com/VVarrior1/systemlab)**: a system design trainer. 70 lessons on a deterministic discrete-event simulator, blank-canvas design briefs, an estimation gym, and a voice mock interview graded by Gemini. 948 tests. [Live demo](https://system-design-playground-pi.vercel.app)
 
-**[ApplyOps](https://github.com/VVarrior1/applyops)**: an LLM pipeline with an evaluation gate. Every generated claim must cite a confirmed fact, a golden-set regression check blocks prompt or model changes that make the output worse, and a benchmark picks the cheapest model that isn't measurably worse. [Live demo](https://applyops-two.vercel.app)
-
 **[Vectorized Fashion AI](https://github.com/VVarrior1/Vectorized-fashion-ai)**: multimodal product search with CLIP and text embeddings in FAISS, plus RAG-generated product descriptions. Python, Streamlit.
 
 ## Stack
