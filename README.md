@@ -22,4 +22,4 @@ Full-stack and AI engineer. Computer Science at the University of Calgary, gradu
 
 ## Contact
 
-abdel.mohamed.engineer@gmail.com · [LinkedIn](https://www.linkedin.com/in/abdelrahman-mohamed-080488197/) · [Portfolio](https://abdelrahmanmohamed1.netlify.app)
+abdel.mohamed.engineer@gmail.com · [LinkedIn](https://www.linkedin.com/in/abdelrahman-mohamed-080488197/) · [Portfolio](https://abdelrahmanm.dev)
